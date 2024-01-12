@@ -1,0 +1,37 @@
+.header_main {
+	top: 0;
+	left:0;
+	min-height: 70px;
+	width: 100%;
+	background-color: grey;
+}
+
+.footer_main {
+	top: 70px;
+	left:0;
+	height: 100%;
+	width: 16.66666667%;
+	background-color: blue;
+}
+
+.row_cont {
+	--bs-gutter-x: 0;
+}
+
+.td_image {
+	width: 70px;
+	height: 40px;
+	border: 1px solid black;
+}
+
+.img_main {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.img_main_modal {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
